@@ -20,7 +20,7 @@ An end-to-end data analysis and visualization project built using **PhonePe Puls
 ```
 PhonePe/
 ├── phonepe_ana.ipynb    # Data extraction, cleaning, SQL analysis & insights
-├── st_phnp.py           # Streamlit dashboard application
+├── app.py           # Streamlit dashboard application
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project documentation
 └── .gitignore
